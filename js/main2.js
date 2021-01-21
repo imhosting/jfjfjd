@@ -105,7 +105,7 @@ $(document)[_0x1510('0x0')](function () {
                         <div class="connected-player-content animated bounceIn">
                             <div class="connected-player-inner">	
                                 <div class="connected-player-item animated bounceIn animation-delay-200">
-                                    <img src="img/input-icon.png" class="profile-icon">
+                                    <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/input-icon.png" class="profile-icon">
                                     <div class="connected-label">Username:</div>
                                     <div class="connected-player-value connected-username-value">jkhkhk</div>
                                 </div>	
@@ -121,7 +121,7 @@ $(document)[_0x1510('0x0')](function () {
                                 <div class="col-md-4 col-12 small-padding">	
                                     <div class="animated bounceIn animation-delay-800">
                                         <div class="resource-select-item resource-select-item-one resource-select-item-1">
-                                            <img src="img/f-icon.png" class="resource-select-icon">
+                                            <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-1">1000</div>
                                             <div class="resource-item-label">Robux</div>
                                         </div>
@@ -130,7 +130,7 @@ $(document)[_0x1510('0x0')](function () {
                                 <div class="col-md-4 col-12 small-padding">	
                                     <div class="animated bounceIn animation-delay-1000">
                                         <div class="resource-select-item resource-select-item-one resource-select-item-2">
-                                            <img src="img/f-icon.png" class="resource-select-icon" title="" style="">
+                                            <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon" title="" style="">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-2">2500</div>
                                             <div class="resource-item-label">Robux</div>
                                         </div>
@@ -139,7 +139,7 @@ $(document)[_0x1510('0x0')](function () {
                                 <div class="col-md-4 col-12 small-padding">	
                                     <div class="animated bounceIn animation-delay-1200">
                                         <div class="resource-select-item resource-select-item-one resource-select-item-3">
-                                            <img src="img/f-icon.png" class="resource-select-icon" title="" style="">
+                                            <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon" title="" style="">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-3">5000</div>
                                             <div class="resource-item-label">Robux</div>
                                         </div>
@@ -193,7 +193,7 @@ $(document)[_0x1510('0x0')](function () {
                                                 <div class="loader">Loading...</div>
                                             </div>
                                             <div class="console-generation-item console-generation-item-r-1 animated jello item-completed" style="display: none;">
-                                                <img src="img/f-icon.png" class="resource-select-icon">
+                                                <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                                 <div class="console-generation-item-value console-generation-item-value-r-1">606</div>
                                                 <div class="resource-item-label">Robux</div>
                                             </div>
@@ -318,7 +318,7 @@ $(document)[_0x1510('0x0')](function () {
                                                                     </div>	
                                                                     <div class="col-md-6 col-12">
                                                                         <div class="console-generation-item console-generation-item-r-1 animated bounceIn animation-delay-600">
-                                                                            <img src="img/f-icon.png" class="resource-select-icon">
+                                                                            <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                                                             <div class="console-generation-item-value console-generation-item-value-r-1">1000</div>
                                                                             <div class="resource-item-label">Robux</div>
                                                                         </div>
